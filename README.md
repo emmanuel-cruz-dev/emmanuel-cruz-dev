@@ -27,9 +27,9 @@ I am a developer passionate about creating intuitive and efficient interfaces th
 <br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmmaLCruz&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EmmaLCruz&theme=algolia&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaLCruz&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=emmanuel-cruz-dev&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-cruz-dev&theme=algolia&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-cruz-dev&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 
 <!-- ### 🔝 Top Contributed Repo
