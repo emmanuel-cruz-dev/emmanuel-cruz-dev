@@ -1,5 +1,5 @@
 # Hi, I'm Emmanuel 👋🏻
-![](https://github.com/EmmaLCruz/EmmaLCruz/blob/main/banner-link1.jpg)
+![](https://github.com/emmanuel-cruz-dev/emmanuel-cruz-dev/blob/main/banner-link1.jpg)
 <br/>
 
 ## 👨‍💻 Frontend Developer
