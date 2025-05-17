@@ -24,7 +24,7 @@ I'm a developer passionate about creating intuitive and efficient interfaces tha
 </p>
 
 ## 📚 Currently Learning
-Expanding my backend development knowledge through:
+Expanding my backend development knowledge through:  
 Talento Tech: Node.js, Express, Firestore, and the JavaScript ecosystem for backend.  
 Alura Latam: Java, Spring Boot, and enterprise architectures.
 <br/>
