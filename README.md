@@ -23,6 +23,13 @@ I'm a developer passionate about creating intuitive and efficient interfaces tha
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40" title="Node.js" />
 </p>
 
+## 📚 Currently Learning
+Expanding my backend development knowledge through:
+
+Talento Tech: Node.js, Express, Firestore, and the JavaScript ecosystem for backend.  
+Alura Latam: Java, Spring Boot, and enterprise architectures.
+<br/>
+
 ## 📫 Contact me
 [![Mi Web Personal](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emmanuel-cruz.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-cruz-dev/)
