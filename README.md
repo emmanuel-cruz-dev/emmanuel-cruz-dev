@@ -28,7 +28,7 @@ I'm a developer passionate about creating intuitive and efficient interfaces tha
 Expanding my backend and full-stack development knowledge through:  
 **Talento Tech:** Node.js, Express, Firestore, and the JavaScript ecosystem for backend.  
 **Alura Latam:** Java, Spring Boot, and enterprise architectures.  
-**Academia ForIT:** Full-stack development with Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.  
+**Academia ForIT:** Full-stack development with Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.
 <br/>
 
 ## 📫 Contact me
