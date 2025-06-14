@@ -9,8 +9,7 @@ A developer specializing in React and TypeScript with hands-on experience in col
 ## 💼 Recent Experience
 - 🏥 **Aura** - Therapy Management Platform. Comprehensive system for the Rayuela therapy center (Foo Talent Group).  
 - 🏋️ **FitFlow** - AI-powered health and fitness platform (No Country).  
-- 🔐 **LockKey** - Password Manager (No Country).
-<br />
+- 🔐 **LockKey** - Password Manager (No Country). 
 
 ## 🛠 Languages ​​and Tools
 <p>
@@ -30,6 +29,12 @@ A developer specializing in React and TypeScript with hands-on experience in col
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" title="Express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman" />
 </p>
+
+## 📋 Methodologies and Management
+- **Agile Methodologies:** Scrum, Kanban.
+- **Version Control:** GitFlow, Trunk Based Development.
+- **Management:** Jira, ClickUp, Notion.
+<br/>
 
 ## 📚 Currently Learning
 Expanding my **backend** and **full-stack** development knowledge through:  
