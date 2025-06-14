@@ -38,7 +38,7 @@ A developer specializing in React and TypeScript with hands-on experience in col
 ## 📋 Methodologies and Management
 - **Agile Methodologies:** Scrum, Kanban.
 - **Version Control:** GitFlow, Trunk Based Development.
-- **Management:** Jira, ClickUp, Notion.
+- **Management:** Jira, Trello, ClickUp, Notion.
 
 ## 📚 Currently Learning
 Expanding my **backend** and **full-stack** development knowledge through:  
