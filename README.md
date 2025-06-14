@@ -34,14 +34,12 @@ A developer specializing in React and TypeScript with hands-on experience in col
 - **Agile Methodologies:** Scrum, Kanban.
 - **Version Control:** GitFlow, Trunk Based Development.
 - **Management:** Jira, ClickUp, Notion.
-<br/>
 
 ## 📚 Currently Learning
 Expanding my **backend** and **full-stack** development knowledge through:  
 - **Talento Tech:** Node.js, Express, Firestore, and the JavaScript ecosystem for backend.  
 - **Alura Latam:** Java, Spring Boot, and enterprise architectures.  
 - **Academia ForIT:** Full-stack development with Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.
-<br/>
 
 ## 📫 Contact me
 [![Mi Web Personal](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emmanuel-cruz.netlify.app/)
