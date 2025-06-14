@@ -8,7 +8,9 @@ A developer specializing in React and TypeScript with hands-on experience in col
 
 ## 💼 Recent Experience
 - 🏥 **Aura** - Therapy Management Platform. Comprehensive system for the Rayuela therapy center (Foo Talent Group).  
+![](https://img.shields.io/badge/%F0%9F%93%81_Repositorio-181717?style=flat-square&logo=github)
 - 🏋️ **FitFlow** - AI-powered health and fitness platform (No Country).  
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/FooTalentGroup/AURA)
 - 🔐 **LockKey** - Password Manager (No Country). 
 
 ## 🛠 Languages ​​and Tools
