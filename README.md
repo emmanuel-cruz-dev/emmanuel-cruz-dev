@@ -6,6 +6,12 @@
 A developer specializing in React and TypeScript with hands-on experience in collaborative projects using agile methodologies. I've worked on multidisciplinary teams with real stakeholders, developing solutions for sectors such as healthcare, fitness, and digital security.
 <br/>
 
+## 💼 Recent Experience
+- 🏥 **Aura** - Therapy Management Platform. Comprehensive system for the Rayuela therapy center (Foo Talent Group).  
+- 🏋️ **FitFlow** - AI-powered health and fitness platform (No Country).  
+- 🔐 **LockKey** - Password Manager (No Country). 
+<br />
+
 ## 🛠 Languages ​​and Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="Photoshop" title="Photoshop" />
@@ -27,9 +33,9 @@ A developer specializing in React and TypeScript with hands-on experience in col
 
 ## 📚 Currently Learning
 Expanding my **backend** and **full-stack** development knowledge through:  
-**Talento Tech:** Node.js, Express, Firestore, and the JavaScript ecosystem for backend.  
-**Alura Latam:** Java, Spring Boot, and enterprise architectures.  
-**Academia ForIT:** Full-stack development with Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.
+- **Talento Tech:** Node.js, Express, Firestore, and the JavaScript ecosystem for backend.  
+- **Alura Latam:** Java, Spring Boot, and enterprise architectures.  
+- **Academia ForIT:** Full-stack development with Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.
 <br/>
 
 ## 📫 Contact me
