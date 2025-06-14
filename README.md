@@ -3,7 +3,7 @@
 <br/>
 
 ## 👨‍💻 Frontend Developer
-I'm a developer passionate about creating intuitive and efficient interfaces that improve the user experience. I specialize in transforming ideas into clean and maintainable code.
+A developer specializing in React and TypeScript with hands-on experience in collaborative projects using agile methodologies. I've worked on multidisciplinary teams with real stakeholders, developing solutions for sectors such as healthcare, fitness, and digital security.
 <br/>
 
 ## 🛠 Languages ​​and Tools
