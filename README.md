@@ -35,6 +35,7 @@ A developer specializing in React and TypeScript with hands-on experience in col
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" title="Express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman" />
 <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" height="40" alt="Insomnia" title="Insomnia" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Logo" width="40" height="40" title="Firebase / Firestore" />
 </p>
 
 ## 📋 Methodologies and Management
