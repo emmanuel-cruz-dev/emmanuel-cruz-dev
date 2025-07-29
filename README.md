@@ -31,11 +31,15 @@ A developer specializing in React and TypeScript with hands-on experience in col
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" title="Angular" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot Logo" width="40" height="40" title="Spring Boot" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40" title="Node.js" /> 
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" title="Express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman" />
 <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" height="40" alt="Insomnia" title="Insomnia" />
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Logo" width="40" height="40" title="Firebase / Firestore" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="40" height="40" title="Visual Studio Code" />
+<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA Logo" width="40" height="40" title="IntelliJ IDEA" />
+<img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="40" height="40" title="Vite" />
 </p>
 
 ## 📋 Methodologies and Management
