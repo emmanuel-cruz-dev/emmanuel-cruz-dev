@@ -47,14 +47,10 @@ A developer specializing in React and TypeScript with hands-on experience in col
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase / Firestore" />
 </p>
 
-### 📡 API Testing
+### 🧪 Testing
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" title="Insomnia" />
-</p>
-
-### 🧪 Testing
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest" />
   <img src="https://vitest.dev/logo.svg" width="40" title="Vitest" />
 </p>
