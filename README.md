@@ -55,6 +55,7 @@ A developer specializing in React and TypeScript with hands-on experience in col
 
 ### 🧪 Testing
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest" />
   <img src="https://vitest.dev/logo.svg" width="40" title="Vitest" />
 </p>
 
