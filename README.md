@@ -18,12 +18,6 @@ A developer specializing in React and TypeScript with hands-on experience in col
 
 ## 🛠 Languages and Tools
 
-### 🎨 Design & Prototyping
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" title="Photoshop" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" />
-</p>
-
 ### 🌐 Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
@@ -57,6 +51,8 @@ A developer specializing in React and TypeScript with hands-on experience in col
 
 ### 🧰 Tools
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" title="Photoshop" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code" />
   <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40" title="IntelliJ IDEA" />
