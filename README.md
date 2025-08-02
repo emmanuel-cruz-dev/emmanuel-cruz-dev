@@ -53,6 +53,11 @@ A developer specializing in React and TypeScript with hands-on experience in col
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" title="Insomnia" />
 </p>
 
+### 🧪 Testing
+<p>
+  <img src="https://vitest.dev/logo.svg" width="40" title="Vitest" />
+</p>
+
 ### 🧰 Tools
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" />
