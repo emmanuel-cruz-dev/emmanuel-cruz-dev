@@ -47,6 +47,7 @@ A developer specializing in React and TypeScript with hands-on experience in col
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" title="Insomnia" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest" />
   <img src="https://vitest.dev/logo.svg" width="40" title="Vitest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" title="Swagger" />
 </p>
 
 ### 🧰 Tools
