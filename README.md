@@ -7,7 +7,9 @@ A developer specializing in React and TypeScript with hands-on experience in col
 <br/>
 
 ## 💼 Recent Experience
-- 🛒 **Equipo Kramer** - E-commerce Platform + CRM + Dashboard - Software product development by a multidisciplinary team.  
+- 🐕 **MisinoMascotas** (Currently working) - E-commerce Platform - Inventory management software for pet products.  
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/petshop112/misinomascotas/tree/main)
+- 🛒 **Equipo Kramer** (Currently working) - E-commerce Platform - Software product development by a multidisciplinary team.  
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/LumDev86/Kramer)
 - 🏥 **Aura** - Comprehensive system for the Rayuela therapy center (Foo Talent Group).  
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/FooTalentGroup/AURA)
