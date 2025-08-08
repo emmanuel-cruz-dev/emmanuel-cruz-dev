@@ -72,7 +72,7 @@ A developer specializing in React and TypeScript with hands-on experience in col
 
 ## 📚 Currently Learning
 Expanding my **backend** and **full-stack** development knowledge through:  
-<!-- - **Talento Tech:** Node.js, Express, Firestore, and the JavaScript ecosystem for backend.  -->
+<!-- - **Talento Tech:** React.js, Node.js, Hooks, Context API, React Router, Vite, Bootstrap.  -->
 - **Alura Latam:** Java, Spring Boot, MySQL, Applied AI and enterprise architectures.  
 - **Academia ForIT:** Full-stack development with Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.
 
