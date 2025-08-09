@@ -71,8 +71,8 @@ A developer specializing in React and TypeScript with hands-on experience in col
 - **Management:** Jira, ClickUp, Notion, Trello.
 
 ## 📚 Currently Learning
-Expanding my **backend** and **full-stack** development knowledge through:  
-<!-- - **Talento Tech:** React.js, Node.js, Hooks, Context API, React Router, Vite, Bootstrap.  -->
+Expanding my **frontend**, **backend** and **full-stack** development knowledge through:  
+- **Talento Tech:** React.js, Node.js, Hooks, Context API, React Router, Vite, Bootstrap.  
 - **Alura Latam:** Java, Spring Boot, MySQL, Applied AI and enterprise architectures.  
 - **Academia ForIT:** Full-stack development with Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.
 
