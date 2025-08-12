@@ -71,10 +71,16 @@ A developer specializing in React and TypeScript with hands-on experience in col
 - **Management:** Jira, ClickUp, Notion, Trello.
 
 ## 📚 Currently Learning
-Expanding my **frontend**, **backend** and **full-stack** development knowledge through:  
+
+### 🎓 **Tecnicatura Superior en Desarrollo de Software**
+Comprehensive software development program covering: **Object-oriented programming**, **web systems development** (Back End & Front End), **mobile app development**, **testing methodologies**, **statistics**, **software engineering** and **project management**.
+
+### 📖 Additional Training
+Expanding my development knowledge through specialized courses:
 - **Talento Tech:** React.js, Node.js, Hooks, Context API, React Router, Vite, Bootstrap.  
 - **Alura Latam:** Java, Spring Boot, MySQL, Applied AI and enterprise architectures.  
 - **Academia ForIT:** Full-stack development with Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.
+
 
 ## 📫 Contact me
 [![Mi Web Personal](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emmanuel-cruz.netlify.app/)
