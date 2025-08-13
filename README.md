@@ -3,7 +3,8 @@
 <br/>
 
 ## 👨‍💻 Frontend Developer
-A developer specializing in React and TypeScript with hands-on experience in collaborative projects using agile methodologies. I've worked on multidisciplinary teams with real stakeholders, developing solutions for sectors such as healthcare, fitness, and digital security.
+A Developer specializing in **React**, **TypeScript** and **Tailwind CSS** with proven experience building production-ready applications for real clients across healthcare, e-commerce, fitness, and inventory management sectors.  
+Currently pursuing a **Technical Degree in Software Development** from Buenos Aires City Government while actively working on commercial projects. I excel in collaborative environments, working closely with backend teams for seamless API integration and UX/UI designers to transform Figma designs into responsive, pixel-perfect interfaces.
 <br/>
 
 ## 💼 Recent Experience
