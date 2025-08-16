@@ -79,9 +79,9 @@ Comprehensive software development program covering: **Object-oriented programmi
 
 ### 📖 Additional Training
 Expanding my development knowledge through specialized courses:
-- **Talento Tech:** React.js, Node.js, Hooks, Context API, React Router, Vite, Bootstrap.  
-- **Alura Latam:** Java, Spring Boot, MySQL, Applied AI and enterprise architectures.  
-- **Academia ForIT:** Full-stack development with Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.
+- **Talento Tech – Frontend:** React.js, Node.js, Hooks, Context API, React Router, Vite, Bootstrap.  
+- **Alura Latam – Backend:** Java, Spring Boot, MySQL, Applied AI and enterprise architectures.  
+- **Academia ForIT – Fullstack:** Advanced Git, TypeScript, TDD, Clean Code, Clean Architecture and Docker.
 
 
 ## 📫 Contact me
