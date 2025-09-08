@@ -81,7 +81,6 @@ Comprehensive software development program covering: **Object-oriented programmi
 Expanding my development knowledge through specialized courses:
 - **Talento Tech – Frontend:** React.js, Node.js, Hooks, Context API, React Router, Vite, Bootstrap.  
 - **Oracle Next Education – Tech Advanced:** SQL & Oracle MySQL Server, Oracle Cloud Infrastructure (OCI), OCI Foundations Associate Certification prep.  
-<!--- - **Alura Latam – Backend:** Java, Spring Boot, MySQL, Applied AI and enterprise architectures.-->
 
 
 ## 📫 Contact me
