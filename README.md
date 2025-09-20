@@ -20,7 +20,7 @@ Currently pursuing a **Technical Degree in Software Development** from Buenos Ai
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/FooTalentGroup/AURA)
 - 🏋️ **FitFlow** - AI-powered health and fitness platform (No Country).  
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/deimos-et-fobos/fitflow)
-- 🔐 **LockKey** - Password Manager (No Country).  
+- 🔐 **LockKey** - Secure and efficient password manager designed to facilitate reliable credential storage and management (No Country).  
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/No-Country-simulation/equipo-c24-70-ft-webapp/tree/frontend)
 
 ## 🛠 Languages and Tools
