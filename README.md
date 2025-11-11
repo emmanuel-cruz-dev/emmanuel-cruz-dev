@@ -10,12 +10,12 @@ Currently pursuing a **Technical Degree in Software Development** from Buenos Ai
 
 ## 💼 Recent Experience
 ### 🚀 Currently Working On:
-- 📖 **PymeGo** - Credit Onboarding Web Platform for SMEs.  
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/Rosariobelenn/Equipo13)
 - 🛒 **Equipo Kramer** - E-commerce Platform - Software product development by a multidisciplinary team.  
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/LumDev86/Kramer)
 
 ### 📚 Previous Projects:
+- 📖 **PymeGo** - Credit Onboarding Web Platform for SMEs.  
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/Rosariobelenn/Equipo13)
 - 🐕 **Flowik** - Product Management Platform · Stock & pricing control, suppliers & clients management, analytics dashboard, and AI-powered automation (Foo Talent Group).    
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/petshop112/Flowik/tree/main)
 - 🏥 **Aura** - Comprehensive system for the Rayuela therapy center (Foo Talent Group).  
