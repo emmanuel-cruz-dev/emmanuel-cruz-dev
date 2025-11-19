@@ -10,6 +10,8 @@ Currently pursuing a **Technical Degree in Software Development** from Buenos Ai
 
 ## 💼 Recent Experience
 ### 🚀 Currently Working On:
+- 🌱 **EcoShop** - Sustainable E-commerce Platform · Environmental impact tracking and visualization for eco-friendly brands.  
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/felipecalderon/nocountry-ecoshop)
 - 🛒 **Equipo Kramer** - E-commerce Platform - Software product development by a multidisciplinary team.  
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>](https://github.com/LumDev86/Kramer)
 
