@@ -37,6 +37,7 @@ Currently pursuing a **Technical Degree in Software Development** from Buenos Ai
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" title="Sass" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
@@ -49,6 +50,9 @@ Currently pursuing a **Technical Degree in Software Development** from Buenos Ai
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring Boot" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="40" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" title="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase / Firestore" />
 </p>
 
