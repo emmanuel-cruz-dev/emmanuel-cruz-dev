@@ -98,10 +98,16 @@ Expanding my development knowledge through specialized courses:
 <br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emmanuel-cruz-dev&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+<!-- Estados anteriores -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=emmanuel-cruz-dev&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-cruz-dev&theme=algolia&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-cruz-dev&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-cruz-dev&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+![](https://github-readme-stats.vercel.app/api?username=emmanuel-cruz-dev&theme=algolia&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-cruz-dev&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-cruz-dev&theme=algolia&layout=compact)
 <br/>
+
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EmmaLCruz&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
