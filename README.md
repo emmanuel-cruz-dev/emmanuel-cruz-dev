@@ -48,6 +48,7 @@ Currently pursuing a **Technical Degree in Software Development** from Buenos Ai
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="40" title="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" title="NestJS" />
