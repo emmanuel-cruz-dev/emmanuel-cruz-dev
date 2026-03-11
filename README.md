@@ -86,12 +86,6 @@ Currently pursuing a **Technical Degree in Software Development** from Buenos Ai
 ### 🎓 **Tecnicatura Superior en Desarrollo de Software**
 Comprehensive software development program covering: **Object-oriented programming**, **web systems development** (Back End & Front End), **mobile app development**, **testing methodologies**, **statistics**, **software engineering** and **project management**.
 
-### 📖 Additional Training
-Expanding my development knowledge through specialized courses:
-- **Talento Tech – Frontend:** React.js, Node.js, Hooks, Context API, React Router, Vite, Bootstrap.  
-- **Oracle Next Education – Tech Advanced:** SQL & Oracle MySQL Server, Oracle Cloud Infrastructure (OCI), OCI Foundations Associate Certification prep.  
-
-
 ## 📫 Contact me
 [![Mi Web Personal](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emmanuel-cruz.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-cruz-dev/)
@@ -105,7 +99,9 @@ Expanding my development knowledge through specialized courses:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-cruz-dev&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=emmanuel-cruz-dev&theme=algolia&show_icons=true&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-cruz-dev&theme=algolia)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-cruz-dev&theme=algolia&layout=compact)
 <br/>
 
