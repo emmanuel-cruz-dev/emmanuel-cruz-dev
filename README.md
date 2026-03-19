@@ -2,8 +2,10 @@
 ![](https://github.com/emmanuel-cruz-dev/emmanuel-cruz-dev/blob/main/banner-link1.jpg)
 <br/>
 
-## 👨‍💻 Frontend Developer
-A **Developer** specializing in **React**, **TypeScript**, **Tailwind CSS**, and **Node.js** with proven experience building production-ready applications for real clients across healthcare, e-commerce, fitness, and inventory management sectors.
+## 👨‍💻 Full Stack Developer (Frontend Specialized)
+**Full Stack Developer** specializing in **React**, **TypeScript**, **Tailwind CSS**, and modern frontend architectures, with experience building end-to-end applications using **Node.js**, **FastAPI**, and **Spring Boot**.
+
+I’ve contributed to production-ready applications for real clients across healthcare, e-commerce, fitness, and inventory systems, working in collaborative environments alongside designers and developers.
 
 Currently pursuing a **Technical Degree in Software Development** from Buenos Aires City Government while actively working on commercial projects. I excel in collaborative environments, working with modern tech stacks and UX/UI designers to transform Figma designs into responsive, pixel-perfect interfaces.
 <br/>
@@ -81,7 +83,7 @@ Currently pursuing a **Technical Degree in Software Development** from Buenos Ai
 - **Version Control:** GitFlow, Trunk Based Development.
 - **Management:** Jira, ClickUp, Notion, Trello.
 
-## 📚 Currently Learning
+## 📚 Education & Growth
 
 ### 🎓 **Tecnicatura Superior en Desarrollo de Software**
 Comprehensive software development program covering: **Object-oriented programming**, **web systems development** (Back End & Front End), **mobile app development**, **testing methodologies**, **statistics**, **software engineering** and **project management**.
