@@ -3,11 +3,13 @@
 <br/>
 
 ## 👨‍💻 Full Stack Developer (Frontend Specialized)
-**Full Stack Developer** specializing in **React**, **TypeScript**, **Tailwind CSS**, and modern frontend architectures, with experience building end-to-end applications using **Node.js**, **FastAPI**, and **Spring Boot**.
+**Full Stack Developer** with a strong focus on frontend development, specializing in **Angular**, **React**, **TypeScript**, and modern UI architectures.
 
-I’ve contributed to production-ready applications for real clients across healthcare, e-commerce, fitness, and inventory systems, working in collaborative environments alongside designers and developers.
+I build scalable end-to-end applications using technologies like **Node.js**, **Java (Spring Boot)**, and **FastAPI**, combining solid backend logic with high-quality, responsive user interfaces.
 
-Currently pursuing a **Technical Degree in Software Development** from Buenos Aires City Government while actively working on commercial projects. I excel in collaborative environments, working with modern tech stacks and UX/UI designers to transform Figma designs into responsive, pixel-perfect interfaces.
+I have experience working on production-ready applications across domains such as healthcare, e-commerce, fitness, and inventory systems, collaborating closely with designers and developers to deliver pixel-perfect implementations from Figma.
+
+Currently pursuing a **Technical Degree in Software Development** while actively developing fullstack applications and improving my backend and system design skills.
 <br/>
 
 ## 💼 Recent Experience
