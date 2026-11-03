@@ -3,7 +3,7 @@
 <br/>
 
 ## 👨‍💻 Full Stack Developer (Frontend Specialized)
-**Full Stack Developer** with a strong focus on frontend development, specializing in **Angular**, **React**, **TypeScript**, and modern UI architectures.
+**Full Stack Developer** with a strong focus on frontend development, specializing in **Angular**, **Next.js**, **React**, **TypeScript**, and modern UI architectures.
 
 I build scalable end-to-end applications using technologies like **Node.js**, **Java (Spring Boot)**, and **FastAPI**, combining solid backend logic with high-quality, responsive user interfaces.
 
